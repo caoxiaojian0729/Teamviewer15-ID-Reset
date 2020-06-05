@@ -1,4 +1,4 @@
-＃Teamviewer15-ID-重置
+＃Mac版 Teamviewer15-ID-重置
 ====
 根据原作者的代码修改而来，支持最新版本的Teamviewer 15.6.7<br>
 支持Python3.7直接运行，老版本代码只支持Python2.7<br>
